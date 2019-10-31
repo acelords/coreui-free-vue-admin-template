@@ -1,8 +1,8 @@
 # CoreUI Vue (V3) - Free Bootstrap Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20Vue%20Admin%20Template%20&url=https://github.com/acelords/coreui-free-vue-admin-template/&hashtags=bootstrap,admin,template,dashboard,panel,free,vue,acelordsProducts)
 
-![Equalizer](https://github.com/acelords/coreui-free-vue-admin-template/Screenshot1.png)
+![Equalizer](https://github.com/acelords/coreui-free-vue-admin-template/blob/master/Screenshot1.png)
 
-![Equalizer](https://github.com/acelords/coreui-free-vue-admin-template/Screenshot2.png)
+![Equalizer](https://github.com/acelords/coreui-free-vue-admin-template/blob/master/Screenshot2.png)
 
 ### Check out other AceLords Products from here:
 - [AceLords Website](https://www.acelords.space)
