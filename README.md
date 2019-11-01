@@ -10,7 +10,7 @@
 - [AceLords Apps](https://apps.acelords.space)
 
 ## Demo
-A fully functional demo is available at [AceLords Cloud](https://coreui.acelords.space).
+A fully functional demo is available at [AceLords Cloud](https://themesgalore.acelords.space/coreui).
 
 For any updates and other releases, you can check [CoreUi's Website](http://coreui.io)
 
