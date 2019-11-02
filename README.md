@@ -166,3 +166,9 @@ CoreUI is an MIT licensed open source project and completely free to use. Howeve
 - Buying one of their [premium admin templates](https://genesisui.com/?support=1).
 
 Get in touch on [Twitter](https://twitter.com/acelords).
+
+
+## Crowdfunding
+It's also possible to support the project on [Patreon](https://www.patreon.com/lexxyungcarter) or by buying products and merchandise at [Marketplace](https://marketplace.acelords.space).
+
+This funding is used for maintaining the project and adding new features into Code Style plus other open-source repositories.
