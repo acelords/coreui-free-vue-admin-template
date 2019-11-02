@@ -169,6 +169,6 @@ Get in touch on [Twitter](https://twitter.com/acelords).
 
 
 ## Crowdfunding
-It's also possible to support the project on [Patreon](https://www.patreon.com/lexxyungcarter) or by buying products and merchandise at [Marketplace](https://marketplace.acelords.space).
+It's also possible to support the project on [Patreon](https://www.patreon.com/acelords) or by buying products and merchandise at [Marketplace](https://store.acelords.space).
 
 This funding is used for maintaining the project and adding new features into Code Style plus other open-source repositories.
