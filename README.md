@@ -5,12 +5,12 @@
 ![Equalizer](https://github.com/acelords/coreui-free-vue-admin-template/blob/master/Screenshot2.png)
 
 ### Check out other AceLords Products from here:
-- [AceLords Website](https://www.acelords.space)
-- [AceLords Store](https://store.acelords.space)
-- [AceLords Apps](https://apps.acelords.space)
+- [AceLords Website](https://www.acelords.com)
+- [AceLords Store](https://store.acelords.com)
+- [AceLords Apps](https://apps.acelords.com)
 
 ## Demo
-A fully functional demo is available at [AceLords Cloud](https://themesgalore.acelords.space/coreui).
+A fully functional demo is available at [AceLords Cloud](https://themesgalore.acelords.com/coreui).
 
 For any updates and other releases, you can check [CoreUi's Website](http://coreui.io)
 
@@ -130,7 +130,7 @@ CoreUI's documentation, is hosted on the [CoreUI website](http://coreui.io/)
 ### The NewComers
 **Lexx YungCarter**
 - https://github.com/lexxyungcarter
-- https://acelords.space/team/lexx-yungcarter
+- https://acelords.com/team/lexx-yungcarter
 - https://twitter.com/lexx_yungcarter
 
 ## Community
@@ -140,7 +140,7 @@ Get updates on CoreUI's development and chat with the project maintainers and co
 - Follow [@core_ui on Twitter](https://twitter.com/core_ui).
 - Follow [@acelords on Twitter](https://twitter.com/acelords).
 - Read and subscribe to [CoreUI Blog](https://coreui.ui/blog/).
-- Read and subscribe to [AceLords Blog](https://acelords.space/blog/).
+- Read and subscribe to [AceLords Blog](https://acelords.com/blog/).
 
 ### Community Projects
 
@@ -157,8 +157,8 @@ Code released under the MIT license. See `LICENCE`
 CoreUI is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by: 
 
 ### Supporting AceLords
-- Supporting via [PayPal - info@acelords.space](https://www.paypal.com)
-- Buying AceLords products - [LINK](https://store.acelords.space)
+- Supporting via [PayPal - info@acelords.com](https://www.paypal.com)
+- Buying AceLords products - [LINK](https://store.acelords.com)
 
 ### Supporting CoreUi
 - Donating on [CoreUi PayPal](https://www.paypal.me/holeczek), 
@@ -169,6 +169,6 @@ Get in touch on [Twitter](https://twitter.com/acelords).
 
 
 ## Crowdfunding
-It's also possible to support the project on [Patreon](https://www.patreon.com/acelords) or by buying products and merchandise at [Marketplace](https://store.acelords.space).
+It's also possible to support the project on [Patreon](https://www.patreon.com/acelords) or by buying products and merchandise at [Marketplace](https://store.acelords.com).
 
 This funding is used for maintaining the project and adding new features into Code Style plus other open-source repositories.
